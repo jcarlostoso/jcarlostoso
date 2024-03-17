@@ -11,7 +11,11 @@
   <li>🌱 I’m currently learning WEB Development</li>
   <li>😄 I love sharing information and my knowledge with people</li>
 </ul>
-
+<h2>⚡  Projects and work </h2>
+<p>
+  <a href="https://www.aspaautsem.org/"><img align="center" src="https://www.aspaautsem.org/assets/img/logos/logo-blanco.png" width="200px"/></a>
+</p>
+<br>
 <h2>⚙️  GitHub Analytics</h2>
 
 <p >
