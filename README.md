@@ -5,7 +5,9 @@
   <img src="https://github.com/jcarlostoso/jcarlostoso/blob/50be2a50a488b23056acb9bf48242041c3f8cb54/banner_git.webp"/>
 </p>
 <h2>About me</h2>
-🌱 I’m currently learning WEB Development
+<p>I am a Software Development and Management Engineering student at UTSEM in Tejupilco, Mexico. I have worked with the university’s software team and actively participated in creating the <a href="https://www.aspaautsem.org/">ASPAAUTSEM</a> website.</p>
+
+<p>🌱 I’m currently learning WEB Development</p>
 <!--
 **jcarlostoso/jcarlostoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
