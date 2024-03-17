@@ -1,5 +1,7 @@
-### Hi there 👋
 
+<h1 align="center">Hi there 👋,  I'm <a href="https://www.linkedin.com/in/jcarlostoso/">Juan Carlos Torres</a> </h1>
+<h2>About me</h2>
+🌱 I’m currently learning WEB Development
 <!--
 **jcarlostoso/jcarlostoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
