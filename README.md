@@ -7,7 +7,10 @@
 <h2>About me</h2>
 <p>I am a Software Development and Management Engineering student at UTSEM in Tejupilco, Mexico. I have worked with the university’s software team and actively participated in creating the <a href="https://www.aspaautsem.org/">ASPAAUTSEM</a> website.</p>
 
-<p>🌱 I’m currently learning WEB Development</p>
+<ul>
+  <li>🌱 I’m currently learning WEB Development</li>
+  <li>😄 I love sharing information and my knowledge with people</li>
+</ul>
 <!--
 **jcarlostoso/jcarlostoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
