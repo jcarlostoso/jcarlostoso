@@ -4,13 +4,17 @@
 <p align="center">
   <img src="https://github.com/jcarlostoso/jcarlostoso/blob/50be2a50a488b23056acb9bf48242041c3f8cb54/banner_git.webp"/>
 </p>
-<h2>About me</h2>
+<h2>👨‍💻 About me</h2>
 <p>I am a Software Development and Management Engineering student at UTSEM in Tejupilco, Mexico. I have worked with the university’s software team and actively participated in creating the <a href="https://www.aspaautsem.org/">ASPAAUTSEM</a> website.</p>
 
 <ul>
   <li>🌱 I’m currently learning WEB Development</li>
   <li>😄 I love sharing information and my knowledge with people</li>
 </ul>
+
+<h2>⚙️  GitHub Analytics</h2>
+
+![d](https://github-readme-stats.vercel.app/api?username=jcarlostoso&show_icons=true&theme=radical)
 <!--
 **jcarlostoso/jcarlostoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
