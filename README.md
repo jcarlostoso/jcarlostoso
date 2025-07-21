@@ -5,12 +5,22 @@
   <img src="https://github.com/jcarlostoso/jcarlostoso/blob/50be2a50a488b23056acb9bf48242041c3f8cb54/banner_git.webp"/>
 </p>
 <h2>👨‍💻 About me</h2>
-<p>I am a Software Development and Management Engineering student at UTSEM in Tejupilco, Mexico. I have worked with the university’s software team and actively participated in creating the <a href="https://www.aspaautsem.org/">ASPAAUTSEM</a> website.</p>
+<p>Software Development Engineer</p>
+
+<p>Passionate about technology and programming. I have experience building backend applications using Java and Spring Boot, and developing dynamic websites with JavaScript, HTML, CSS, and PHP. I'm also familiar with modern frameworks like React and Laravel.</p>
+
+<p>I'm focused on creating efficient, scalable, and well-structured solutions, and I'm always eager to learn new technologies and improve my skills.</p>
+
+<h3>🔧 Technologies & Tools I work with:</h3>
 
 <ul>
-  <li>🌱 I’m currently learning WEB Development</li>
-  <li>😄 I love sharing information and my knowledge with people</li>
+<li>Backend: Java, Spring Boot, PHP, Laravel</li>
+<li>Frontend: HTML, CSS, JavaScript, React</li>
+<li>Databases: MySQL, PostgreSQL</li>
+<li>Version Control: Git whit GitHub, Bitbucket</li>
 </ul>
+
+<p>📫 Interested in collaborating or have an idea? I'm open to exciting projects and new challenges!</p>
 <h2>⚡  Projects and work </h2>
 <p>
   <a href="https://www.aspaautsem.org/"><img align="center" src="https://www.aspaautsem.org/assets/img/logos/logo-blanco.png" width="200px"/></a>
